@@ -20,7 +20,8 @@ A reproducible deep-learning laboratory covering computer vision, NLP, transform
 - AG News — Hugging Face Datasets: https://huggingface.co/datasets/fancyzhx/ag_news
 - Bike Sharing — UCI ID 275: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset — direct archive: https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip
 
-CIFAR-10 contains 60,000 32×32 colour images across 10 classes, with 50,000 training and 10,000 test examples. citeturn0search2
+
+Dataset references above point to the official TensorFlow, UCI, and Hugging Face dataset documentation. Consult the source pages for current dataset details, licensing, and loading instructions.
 
 ## Workflow
 
